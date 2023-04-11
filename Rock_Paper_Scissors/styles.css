@@ -1,0 +1,9 @@
+.rps{
+    /* background-color: antiquewhite;
+    background-image:url(Images/Rock-paper-scissors.png) ;
+    background-repeat: no-repeat;
+    background-position: center; */
+    background: antiquewhite url(../Images/Rock-paper-scissors.png) no-repeat center;
+    background-size: 500px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
